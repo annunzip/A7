@@ -7,5 +7,7 @@ public class Collectable : MonoBehaviour
     public int worth;
     public string pathName;
     public bool trap;
+    public bool tutorial;
+    public bool actualtrap;
 
 }
